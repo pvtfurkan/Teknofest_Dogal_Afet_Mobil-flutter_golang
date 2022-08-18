@@ -7,8 +7,7 @@ http://www.antalyaosbprojepazari.com/projeler bağlantısından Doğal Afet Mobi
 
 ###  🔽[Download] Android APK (TESTING)
 https://drive.google.com/file/d/1vu04M1x_BnGROSERvT6kIT7zNoJI-pz1/view?usp=sharing
-(https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898670.png) | ![Aksoyhlc order/project tracking application](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898781.png) |
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/76682594/185408352-6f3b8715-c3d8-4035-bdac-57b680953d93.png">
 
