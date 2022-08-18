@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 52px;" ><img height=30 src=""> Doğal Afet Mobil Uygulaması </h1>
 
-Bu uygulama Teknofest 2022 finali ve Antalya İnovasyon yarışması için geliştirilmiştir.
+Bu uygulama Teknofest 2022 finali ve Antalya İnovasyon yarışması için geliştirilmiştir. Doğal Afet Mobil Uygulaması v2 sürümüdür.
 Uygulama Antalya İnovasyon Yarışmasında finale kalmış ve sergi alanında gösterimdedir. Enerji, Makine, Elektrik - Elektronik, İnşaat, Yazılım, Bilişim ve Yapay Zeka kategorisinde
 http://www.antalyaosbprojepazari.com/projeler bağlantısından Doğal Afet Mobil uygulamasına ulaşabilirsiniz.
 
