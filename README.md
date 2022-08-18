@@ -29,15 +29,3 @@ https://user-images.githubusercontent.com/76682594/185416567-fe7261b4-49c5-42b3-
 - Flutter (Mobile App Development)
 - Golang (REST API)
 
-## 👀 More Look & Feel
-
-Here's what we have developed!
-
-<img src="">
-
-<img src="">
-
-<img src="">
-
-
-[download]:
