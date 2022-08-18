@@ -16,13 +16,15 @@ https://drive.google.com/file/d/1vu04M1x_BnGROSERvT6kIT7zNoJI-pz1/view?usp=shari
 
 ###  🔽 Uygulama Önizleme
  https://user-images.githubusercontent.com/76682594/185413496-90904300-a259-487b-b203-44771891b613.mp4
+ 
+ 
+ https://user-images.githubusercontent.com/76682594/185416567-fe7261b4-49c5-42b3-9cee-957bf0476357.mp4
+
 
 
 ## ⚠️ Uygulama Hakkında
 Doğal Afet Mobil Uygulaması, kullanıcının yakını olan kişilerle bağlantıda kalmasını sağlayan bir mobil uygulamadır. Kullanıcıya SOS uyarıları aracılığıyla canlı konumunu kişilerle paylaşma seçeneği sunar ve kullanıcının acil servislere erişmesini sağlar.
 
-
-https://user-images.githubusercontent.com/76682594/185416567-fe7261b4-49c5-42b3-9cee-957bf0476357.mp4
 
 
 ## 📱 Özellikler
