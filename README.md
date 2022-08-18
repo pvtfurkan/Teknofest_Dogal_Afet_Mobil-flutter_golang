@@ -5,7 +5,7 @@ Uygulama Antalya İnovasyon Yarışmasında finale kalmış ve sergi alanında g
 http://www.antalyaosbprojepazari.com/projeler bağlantısından Doğal Afet Mobil uygulamasına ulaşabilirsiniz.
 
 
-###  🔽[Download][indir] Android APK (TESTING)
+###  🔽[Download] Android APK (TESTING)
 https://drive.google.com/file/d/1vu04M1x_BnGROSERvT6kIT7zNoJI-pz1/view?usp=sharing
 
 <br>
