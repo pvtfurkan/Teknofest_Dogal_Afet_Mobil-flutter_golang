@@ -4,7 +4,9 @@ Bu uygulama Teknofest 2022 finali ve Antalya İnovasyon yarışması için geli�
 Uygulama Antalya İnovasyon Yarışmasında finale kalmış ve sergi alanında gösterimdedir. Enerji, Makine, Elektrik - Elektronik, İnşaat, Yazılım, Bilişim ve Yapay Zeka kategorisinde
 http://www.antalyaosbprojepazari.com/projeler bağlantısından Doğal Afet Mobil uygulamasına ulaşabilirsiniz.
 
-| ![Aksoyhlc order/project tracking application](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898670.png) | ![Aksoyhlc order/project tracking application](https://raw.githubusercontent.com/Aksoyhlc/Aksoyhlc-Order-Project-Tracking-Application-Flutter-PHP/master/screenshot/Screenshot_1648898781.png) |
+| ![Aksoyhlc order/project tracking application](https://user-images.githubusercontent.com/76682594/185413496-90904300-a259-487b-b203-44771891b613.mp4
+) | ![Aksoyhlc order/project tracking application](https://user-images.githubusercontent.com/76682594/185413496-90904300-a259-487b-b203-44771891b613.mp4
+) |
 |--|--|
 
 ###  🔽[Download] Android APK (TESTING)
