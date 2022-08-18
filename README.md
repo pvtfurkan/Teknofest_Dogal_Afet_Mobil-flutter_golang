@@ -15,6 +15,8 @@ https://user-images.githubusercontent.com/76682594/185413496-90904300-a259-487b-
 
 
 ## ⚠️ Proje Amacı ve Bulduğu Çözüm
+Doğal Afet Mobil Uygulaması, kullanıcının yakını olan kişilerle bağlantıda kalmasını sağlayan bir mobil uygulamadır. Kullanıcıya SOS uyarıları aracılığıyla canlı konumunu kişilerle paylaşma seçeneği sunar ve kullanıcının acil servislere erişmesini sağlar. Kişisel arkadaşınızdır.
+
 https://user-images.githubusercontent.com/76682594/185416567-fe7261b4-49c5-42b3-9cee-957bf0476357.mp4
 
 
