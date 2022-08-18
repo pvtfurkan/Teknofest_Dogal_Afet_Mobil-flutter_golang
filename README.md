@@ -20,9 +20,15 @@ https://user-images.githubusercontent.com/76682594/185416567-fe7261b4-49c5-42b3-
 
 ## 📱 Özellikler
 
-## ⚒️ Tools & Technology
+SOS Durum Mesajı : Belirli bir süre sonra kullanıcının konumunu izleme (Kullanıcı tarafından belirlenir)
+Güvenli Sarsıntı: Uygulama kapalı olsa bile SOS uyarıları göndermek için mobil cihazı sallayın!
+Yardım Hatları: En yakın polis karakolları, hastaneler, itfaiye, eczaneler vb. ile iletişime geçin.
+
+
+## ⚒️ Tools & Technology(Kullanılan Teknolojiler)
 
 - Flutter (Mobile App Development)
+- Golang (REST API)
 
 ## 👀 More Look & Feel
 
