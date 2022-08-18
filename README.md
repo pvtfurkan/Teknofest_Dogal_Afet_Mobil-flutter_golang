@@ -6,8 +6,7 @@ http://www.antalyaosbprojepazari.com/projeler bağlantısından Doğal Afet Mobi
 
 
 ###  🔽[Download][indir] Android APK (TESTING)
-https://user-images.githubusercontent.com/76682594/185413496-90904300-a259-487b-b203-44771891b613.mp4
-
+https://drive.google.com/file/d/1vu04M1x_BnGROSERvT6kIT7zNoJI-pz1/view?usp=sharing
 
 <br>
 
