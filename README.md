@@ -11,7 +11,6 @@ http://www.antalyaosbprojepazari.com/projeler bağlantısından Doğal Afet Mobi
 
 <img src="https://user-images.githubusercontent.com/76682594/185408352-6f3b8715-c3d8-4035-bdac-57b680953d93.png">
 
-https://user-images.githubusercontent.com/76682594/185410833-3a345f12-b74c-4775-adbd-d29541311cf9.mp4
 
 
 ## ⚠️ Proje Amacı ve Bulduğu Çözüm
