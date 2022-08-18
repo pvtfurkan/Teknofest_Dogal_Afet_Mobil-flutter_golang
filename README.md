@@ -15,6 +15,7 @@ https://user-images.githubusercontent.com/76682594/185413496-90904300-a259-487b-
 
 
 ## ⚠️ Proje Amacı ve Bulduğu Çözüm
+https://user-images.githubusercontent.com/76682594/185416567-fe7261b4-49c5-42b3-9cee-957bf0476357.mp4
 
 
 ## 📱 Özellikler
